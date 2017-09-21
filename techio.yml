@@ -3,4 +3,4 @@ plan:
     - title: What is PHP?
       statement: statement.md
     - title: Why PHP?
-      statement: /chapter1/whyphp.md
+      statement: chapter1/whyphp.md
