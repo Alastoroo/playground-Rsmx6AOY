@@ -1,6 +1,6 @@
-#Statement of Intent
+# Statement of Intent
 This guide is designed for future Full-Stack LAMP developers.
-#Chapters
+# Chapters
 * Chapter 1
   * 1.1 What is HTML
   * 1.2 What is CSS
