@@ -1,6 +1,6 @@
-title: Introduction to PHP Programming
+title: Introduction to PHP Website Development
 plan:
-    - title: What is PHP?
-      statement: statement.md
-    - title: Why PHP?
-      statement: chapter1/whyphp.md
+    - title: Introduction
+      statement: /chapter1/introduction.md
+    #- title: Why PHP?
+    #  statement: chapter1/whyphp.md
