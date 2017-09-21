@@ -3,7 +3,7 @@ plan:
 - title: What is PHP?
   statement: statement.md
 - title: Why PHP?
-  statement: whyphp.md
+  statement: /chapter1/whyphp.md
 #- title: Hello, Script!
  # statement: hello.md
 #- title: Math
