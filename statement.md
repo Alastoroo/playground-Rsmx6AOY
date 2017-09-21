@@ -6,5 +6,5 @@ In 1994, Rasmus Lerdorf created PHP. It is built on Microsoft C and C++. It runs
 ## Philosophy
 Today, PHP is heavily influenced by the GNU movement. Where software or technology in general should be available for the public good.
 ## Sources
-http://www.php.net
-https://en.wikipedia.org/wiki/PHP
+1. http://www.php.net
+2. https://en.wikipedia.org/wiki/PHP
