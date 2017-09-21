@@ -1,13 +1,10 @@
-# Welcome!
-
-This PHP template lets you get started quickly with a simple one-page playground.
-
-```php runnable
-<?php
-echo "Hello World!";
-?>
-```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced PHP template](https://tech.io/select-repo/574)
+#What is PHP?
+##Definition
+PHP is a recursive acronym that stands for PHP: Hypertext PreProcessor.
+##Foundations
+In 1994, Rasmus Lerdorf created PHP. It is built on Microsoft C and C++. It runs on Unix, Linux, or Windows.
+##Philosophy
+Today, PHP is heavily influenced by the GNU movement. Where software or technology in general should be available for the public good.
+##Sources
+http://www.php.net
+https://en.wikipedia.org/wiki/PHP
