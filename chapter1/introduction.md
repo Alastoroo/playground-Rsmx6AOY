@@ -1,4 +1,4 @@
-#WIP
+# WIP
 # Statement of Intent
 This guide is designed for future Full-Stack LAMP developers.
 # Chapters
