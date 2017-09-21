@@ -4,3 +4,9 @@ plan:
       statement: /chapter1/introduction.md
     - title: What is HTML?
       statement: /chapter1/html.md
+    - title: What is CSS?
+      statement: /chapter1/css.md
+    - title: What is jQuery?
+      statement: /chapter1/jquery.md
+    #- title: Your first webpage
+      #statement: /chapter1/webpage.md
