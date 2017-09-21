@@ -2,8 +2,8 @@ title: Introduction to PHP Programming
 plan:
 - title: What is PHP?
   statement: statement.md
-#- title: Why PHP?
- # statement: whyphp.md
+- title: Why PHP?
+  statement: whyphp.md
 #- title: Hello, Script!
  # statement: hello.md
 #- title: Math
