@@ -4,21 +4,21 @@ plan:
   statement: statement.md
 - title: Why PHP?
   statement: whyphp.md
-- title: Hello, Script!
-  statement: hello.md
-- title: Math
-  statement: math.md
-- title: Conditons
-  statement: conditions.md
-- title: Functions
-  statement: functions.md
-- title: Scope
-  statement: scope.md
-- title: Classes Part 1
-  statement: classes_pt1.md
-- title: Classes Part 2
-  statement: classes_pt2.md
-- title: Classes Part 3
-  statement: classes_pt3.md
-- title: Standards PSR
-  statement: psr.md
+#- title: Hello, Script!
+ # statement: hello.md
+#- title: Math
+#  statement: math.md
+#- title: Conditons
+#  statement: conditions.md
+#- title: Functions
+#  statement: functions.md
+#- title: Scope
+#  statement: scope.md
+#- title: Classes Part 1
+#  statement: classes_pt1.md
+#- title: Classes Part 2
+#  statement: classes_pt2.md
+#- title: Classes Part 3
+#  statement: classes_pt3.md
+#- title: Standards PSR
+#  statement: psr.md
